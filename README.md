@@ -1,4 +1,4 @@
-Aplicativo desenvolvido no curso da Alura <strong>Flutter: criando um app</strong>.
+Aplicativo desenvolvido no curso da Alura <strong>Persistência com Flutter: crie um app com armazenamento interno</strong>.
 
 <h2>Tópicos</h2>
 <ul>
