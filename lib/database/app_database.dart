@@ -1,3 +1,4 @@
+import 'package:persistencia/database/dao/contact_dao.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
