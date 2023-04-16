@@ -17,13 +17,13 @@ class _ContactsListState extends State<ContactsList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Contacts"),
+        title: const Text("Contatos"),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () async {
-          Contact contatos = await Navigator.of(context).push(MaterialPageRoute(
+        onPressed: () {
+          Navigator.of(context).push(MaterialPageRoute(
             builder: (context) => const ContactForm(),
-          ));
+          )).then((value) => setState((){}));
         },
         child: const Icon(Icons.add),
       ),

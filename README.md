@@ -17,7 +17,10 @@ Aplicativo desenvolvido no curso da Alura <strong>Persistência com Flutter: cri
 
 <h2>Imagens</h2>
 <div align="center">
-    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-criando-um-app-alura/main/screenshots/img1.png" />
+    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-persistencia-alura/main/screenshots/img1.png" />
     <span>|</span>
-    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-criando-um-app-alura/main/screenshots/img2.png" />
+    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-persistencia-alura/main/screenshots/img2.png" />
+    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-persistencia-alura/main/screenshots/img3.png" />
+    <span>|</span>
+    <img width="33%" src="https://raw.githubusercontent.com/DouglasLeal/curso-flutter-persistencia-alura/main/screenshots/img4.png" />
 </div>
