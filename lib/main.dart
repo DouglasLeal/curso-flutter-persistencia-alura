@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           secondary: Colors.blueAccent[700],
         ),
       ),
-      home: Dashboard(),
+      home: const Dashboard(),
     );
   }
 }
